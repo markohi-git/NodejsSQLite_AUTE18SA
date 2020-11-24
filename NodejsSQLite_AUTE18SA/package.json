@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-sqlite_aute18-sa",
+  "version": "0.0.0",
+  "description": "NodejsSQLite_AUTE18SA",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "md5": "^2.3.0",
+    "sqlite3": "^5.0.0"
+  }
+}
